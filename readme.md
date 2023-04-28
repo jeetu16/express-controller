@@ -1,3 +1,3 @@
-# Express app with crud operations
+# Express app with controller
 
-### In this repo i've learn how to perform CRUD operation like add, updated, get and delete products in database(using file) using express server.
+### In this repo i've learn how we create controllers which helps us to clean up code.
